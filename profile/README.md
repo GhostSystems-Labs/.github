@@ -3,35 +3,37 @@
 </p>
 
 <h1 align="center">👻 Ghost Systems</h1>
-<p align="center"><b>Tactical AI · Cybersecurity</b></p>
-<p align="center"><i>Operator-grade tools. Built lean. Built local. Built for the field.</i></p>
+<p align="center">
+  <b>Tactical AI · Cybersecurity</b><br>
+  <i>Operator-grade tools. Built lean. Built local. Built for the field.</i>
+</p>
 
 <p align="center">
-  <img alt="Made with Python" src="https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white">
-  <img alt="Security Focused" src="https://img.shields.io/badge/Focus-Security-critical">
-  <img alt="Operator Grade" src="https://img.shields.io/badge/Grade-Operator--Level-black">
-  <img alt="AI Powered" src="https://img.shields.io/badge/AI-Powered-blueviolet">
+  <img src="https://img.shields.io/badge/Made%20with-Python-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Focus-Security-red?style=flat-square">
+  <img src="https://img.shields.io/badge/Grade-Operator--Level-black?style=flat-square">
+  <img src="https://img.shields.io/badge/AI-Powered-purple?style=flat-square">
 </p>
 
 ---
 
 ## 🚀 Projects
-- **GhostKey-USB** — PIN-based USB lockdown for instant device hardening.  
-- **GhostStack** — Full-spectrum firewall + stealth profile to go dark on demand.  
-- **GhostPad** — Secure, encrypted note-taking + ops pad.  
-- **GhostGPT** — AI with operator personality, featuring:  
-  - **Python Tutor** mode → learn coding by concepts, exercises, and interactive lessons  
+- [**GhostKey-USB**](#) — PIN-based USB lockdown for instant device hardening.  
+- [**GhostStack**](#) — Full-spectrum firewall + stealth profile to go dark on demand.  
+- [**GhostPad**](#) — Secure, encrypted note-taking + ops pad.  
+- [**GhostGPT**](#) — AI with operator personality, featuring:  
+  - **Python Tutor** → learn coding by concepts, exercises, and interactive lessons  
   - **Handler mode** → mindset + ops guidance, tactical reasoning, and system support  
-- **GhostStock** — Market analysis node & tooling  
-- **GhostBag** — OSINT / recon automation suite  
-- **GhostWing** — AI bird-strike detection & avoidance system for aircraft  
+- [**GhostStock**](#) — Market analysis node & tooling.  
+- [**GhostBag**](#) — OSINT / recon automation suite.  
+- [**GhostWing**](#) — AI bird-strike detection & avoidance system for aircraft.  
 
 ---
 
 ## 🧭 How We Build
-- Lean & secure → minimal surface, strong defaults  
-- Local-first → no cloud dependencies, logs opt-in  
-- AI-assisted → GhostGPT supports dev + deployment  
+- 🔐 **Lean & secure** → minimal surface, strong defaults  
+- 🛰️ **Local-first** → no cloud dependencies, logs opt-in  
+- 🤖 **AI-assisted** → GhostGPT supports dev + deployment  
 
 ---
 
@@ -42,6 +44,27 @@
 
 ---
 
+## 🛡️ Why Ghost Systems?
+Because today’s battlefield isn’t just physical — it’s digital.  
+Ghost Systems builds **tools that match operator discipline with AI-driven edge**, delivering:  
+- Stealth networking & device lockdown  
+- AI training & tutoring with real ops personality  
+- OSINT/recon at scale with automation  
+
+---
+
+## ⚡ Tech Stack
+- **Python** → core language across projects  
+- **AI / LLMs** → GhostGPT integrated for support + dev  
+- **Jetson / embedded** → hardware AI for GhostWing  
+- **Encryption defaults** → security first, always  
+
+---
+
 ## 📬 Contact
-- **Email:** ghostiac@proton.me  
-- **LinkedIn:** [David Mendez](https://www.linkedin.com/in/david-mendez-9a88052b3/)
+- **Email:** [ghostiac@proton.me](mailto:ghostiac@proton.me)  
+- **LinkedIn:** [David Mendez](https://www.linkedin.com/in/david-mendez-9a88052b3/)  
+
+---
+
+<p align="center"><i>Made with ⚡ discipline by Ghost Systems Labs</i></p>
